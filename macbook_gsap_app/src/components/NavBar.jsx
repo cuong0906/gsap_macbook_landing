@@ -1,6 +1,4 @@
-import React from 'react';
 import { navLinks } from '../constants';
-
 const NavBar = () => {
   return (
     <header>
